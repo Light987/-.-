@@ -14,42 +14,68 @@
 <td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Исследование%20надёжности%20заёмщиков.ipynb" target="_blank"><b>Исследование надежности заемщиков</b></a></td>
 <td>Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов.
 Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку. </td>
-<td><b>pandas</b>, <b>pymystem3</b>, <b>ntlk</b></td>
+<td><b>pandas</b>, <b>pymystem3</b>, <b>collections</b></td>
 <tr>
 <td> <b>3</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/3%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Исследование%20объявлений%20о%20продаже%20квартир.ipynb" target="_blank"><b>Исследование объявлений о продаже квартир</b></a></td>
 <td>Определение рыночной стоимости объектов недвижимости (на базе данных ресурса Яндекс.Недвижимость). Задача — установить параметры, которые в той или иной степени оказывают влиение на финальную стоимость. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность. </td>
-<td>pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>requests</b>, <b>geopy</b>, <b>API Yandex.Геокодер</b></td>
+<td>pandas, <b>numpy</b>, <b>matplotlib</b>, <b>pymystem3</b>, <b>collections</b></td>
 <tr>
 <td> <b>4</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/4%20%D0%A1%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9%20%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BF%D0%B5%D1%80%D1%81%D0%BF%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%B0%20%D0%B4%D0%BB%D1%8F%20%D1%82%D0%B5%D0%BB%D0%B5%D0%BA%D0%BE%D0%BC-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8%20with%20Folium.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Определение%20перспективного%20тарифа%20для%20телеком%20компании.ipynb" target="_blank"><b>Определение перспективного тарифа для телеком-компании</b></a></td>
 <td>Анализ тарифов мобильного оператора. Необходимо проанализировать поведение клиентов и сделать вывод — какой тариф лучше.</td>
-<td>pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер</td>
+<td>pandas, numpy, matplotlib, math, scipy</td>
 <tr>
 <td> <b>5</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/5%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Выявить%20определяющие%20успешность%20игры%20закономерности.ipynb" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></td>
 <td>Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
-<td>pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b></td>
+<td>pandas, numpy, matplotlib, scipy, datetime</td>
 <tr>
 <td> <b>6</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/6%20%D0%A1%D0%B1%D0%BE%D1%80%20%D0%B8%20%D1%85%D1%80%D0%B0%D0%BD%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20%D0%B0%D0%B2%D0%B8%D0%B0%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8.ipynb" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Анализ%20данных%20в%20авиакомпании.ipynb" target="_blank"><b>Аналитика в авиакомпании</b></a></td>
 <td>Анализ перелетов по моделям самолетов за определенный период. Составление карты перелетов</td>
-<td>pandas, numpy, matplotlib, scipy, <b>bokeh</b></td>
+<td>pandas, numpy, matplotlib, scipy, datetime</td>
 <tr>
 <td> <b>7</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/7%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%B2%20JK%20%28%D0%B1%D0%B8%D0%BB%D0%B5%D1%82%D0%BD%D1%8B%D0%B9%20%D0%B0%D0%B3%D1%80%D0%B5%D0%B3%D0%B0%D1%82%D0%BE%D1%80%29.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Выявить%20невыгодные%20источники%20трафика%20и%20перераспределить%20бюджет.ipynb" target="_blank"><b>Анализ бизнес-показателей</b></a></td>
 <td>Стажировка в отделе аналитики Яндекс.Афиши. Задача: помочь маркетологам оптимизировать маркетинговые затраты.
 Расчет бизнес-метрик: Retention, LTV, CAC, ROMI.
-<td>pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b></td>
+<td>pandas, numpy, matplotlib, scipy, datetime</td>
 <tr>
 <td> <b>8</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/8%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D0%BE%D0%B2%20AB-%D1%82%D0%B5%D1%81%D1%82%D0%B0.ipynb" target="_blank"><b>Анализ результатов AB-теста</b></a></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Приоритизация%20гипотез.ipynb" target="_blank"><b>Анализ результатов AB-теста</b></a></td>
 <td>Анализ результатов A/B-теста.</td>
-<td>pandas, bokeh, holoviews, scipy</td>
+<td>pandas, numpy, matplotlib, scipy, math, seaborn, datetime</td>
 <tr>
-<td> <b>10</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/10%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2%20%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.ipynb" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
-<td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
-<td>pandas, bokeh, plotly, statsmodels</td>
+<td> <b>9</b></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Рынок%20заведений%20общественного%20питания%20Москвы.ipynb" target="_blank"><b>Рынок заведений общественного питания Москвы</b></a></td>
+<td>Вы решили открыть небольшое кафе в Москве. Оно оригинальное — гостей должны обслуживать роботы. Проект многообещающий, но дорогой. Вместе с партнёрами вы решились обратиться к инвесторам. Их интересует текущее положение дел на рынке — сможете ли вы снискать популярность на долгое время, когда все зеваки насмотрятся на роботов-официантов?
+Вы — гуру аналитики, и партнёры просят вас подготовить исследование рынка. У вас есть открытые данные о заведениях общественного питания в Москве.</td>
+<td>pandas, matplotlib, seaborn, requests</td>
+<tr>
+<td><b>10</b></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Мобильное%20приложение%20по%20продаже%20продуктов.ipynb" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
+<td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам. </td>
+<td>pandas, matplotlib, seaborn, math, plotly, numpy, scipy</td>
+<tr>
+<td><b>12</b></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Прогноз%20оттока%20клиентов.ipynb" target="_blank"><b>Аналитика фитнес-клуба</b></a></td>
+<td>Провести анализ и подготовить план действий по удержанию клиентов.</td>
+<td>pandas, seaborn, matplotlib, sklearn, scipy</td>
+<tr>
+<td><b>13.1</b></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Игры%20—%20Анализ%20рекламных%20источников.ipynb" target="_blank"><b>Выпускной проект часть 1</b></a></td>
+<td>Основной датасет содержит данные о событиях, совершенных в мобильной игре «Космические братья». В ней пользователи строят свою космическую программу и пытаются преуспеть в нелёгком деле колонизации галактики.</td>
+<td>pandas, plotly, numpy, seaborn, matplotlib, scipy</td>
+<tr>
+<td><b>13.2</b></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Анализ%20AB%20теста.ipynb" target="_blank"><b>Выпускной проект часть 2</b></a></td>
+<td>Задачи: оценить корректность проведения теста, проанализировать результаты теста.</td>
+<td>pandas, plotly, matplotlib, math, scipy</td>
+<tr>
+<td><b>13.3</b></td>
+<td><a href="https://github.com/Light987/Yandex.Practicum/blob/main/Проект%20по%20SQL.ipynb" target="_blank"><b>Выпускной проект часть 3</b></a></td>
+<td>Необходимо проанализировать базу данных и сформулировать ценностное предложение для нового продукта.</td>
+<td>pandas, sqlalchemy</td>
 </table>
 <br/><br/>
